@@ -1,0 +1,21 @@
+.formDisplay{
+    width: 220px;
+    height: 45px;
+    margin: 5px 5px;
+    border-radius: 5px;   
+}
+#btnbackspace, #btnanswer{
+    width: 105px;
+    height: 45px;
+    margin: 5px 5px;  
+}
+.formButton{
+    width: 45px;
+    height: 45px;
+    margin: 5px 5px;  
+    font-size: 15px;  
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+}
+
+
