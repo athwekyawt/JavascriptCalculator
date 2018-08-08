@@ -7,7 +7,11 @@
 #btnbackspace, #btnanswer{
     width: 105px;
     height: 45px;
-    margin: 5px 5px;  
+    margin: 5px 5px; 
+    background-color: rgb(121, 120, 118); 
+}
+#btnplus, #btnminus, #btnmul, #btndiv, #btnclear{
+    background-color: rgb(121, 120, 118); 
 }
 .formButton{
     width: 45px;
@@ -16,6 +20,12 @@
     font-size: 15px;  
     font-family: 'Times New Roman', Times, serif;
     border-radius: 5px;
+}
+.formButton:hover{
+    background-color: rgb(240, 203, 101);
+    border:1px solid #555555;
+    box-shadow: 0px 0px 0px #aaaaaa;
+
 }
 
 
